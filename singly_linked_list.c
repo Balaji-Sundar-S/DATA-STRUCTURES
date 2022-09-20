@@ -82,7 +82,7 @@ void insert(){
 				printf ("enter valid position...");
 			}
 			else{
-				while (i < pos-1){
+				while (i < ch-1){
 				temp = temp -> next;
 				i++;
 				}
