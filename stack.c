@@ -1,3 +1,5 @@
+/*This is program to insert, delete and display elements using stack. Here the stack size is five. if you want, you can change the size of stack by changing the value of 'n' variable.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
